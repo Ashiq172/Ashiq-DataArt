@@ -1,0 +1,58 @@
+[
+  {
+    "year": 1950,
+    "title": "Turing Test",
+    "description": "The Turing Test was proposed by Alan Turing in 1950 to evaluate a machine's ability to exhibit human-like intelligence.It involves a human judge engaging in conversation with both a machine and a human, without knowing which is which.If the judge cannot reliably distinguish the machine from the human, the machine is said to have passed the test.This concept laid the foundation for modern artificial intelligence and sparked philosophical debates about consciousness.Today, AI has evolved far beyond the Turing Test, powering tools like chatbots, autonomous systems, and generative models.",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Turing_test_diagram.png/440px-Turing_test_diagram.png",
+    "category": "Theory"
+  },
+  {
+    "year": 1956,
+    "title": "Dartmouth Workshop",
+    "description": "In 1956, the Dartmouth Conference marked a pivotal moment in technological history when researchers like John McCarthy and Marvin Minsky formally coined the term "Artificial Intelligence." This gathering of visionary scientists laid the groundwork for AI as a distinct scientific discipline, aiming to create machines capable of simulating human intelligence. The conference proposed that every aspect of learning or intelligence could, in principle, be described so precisely that a machine could be made to simulate it—sparking decades of research, innovation, and philosophical inquiry into the nature of mind and machine.",
+    "imageURL": "https://lh6.googleusercontent.com/2fOknOCOKRB53elLxNJQfA9CGVh1uud99HhsWp2eMJIvCge-mEPiJuKtQN0GIXOPaACYj-OBNccNrBHAzApkaMESTnylTGDqMVciQOM1C10dAXdg1kzKlDIM3jDpFWdz44PWxCJ8",
+    "category": "Conference"
+  },
+  {
+    "year": 1966,
+    "title": "ELIZA",
+    "description": "Joseph Weizenbaum developed ELIZA in 1966 at MIT, pioneering early AI-human interaction. Mimicking a Rogerian psychotherapist, it used pattern matching to simulate conversation, revealing how easily humans attribute meaning to machines. Despite its simplicity, ELIZA demonstrated the potential and ethical implications of AI communication.",
+    "imageURL": "https://media.licdn.com/dms/image/v2/D5612AQHg4kf2l6H4UQ/article-cover_image-shrink_720_1280/B56ZbFonC0HUAM-/0/1747072480449?e=2147483647&v=beta&t=W4-Xm-B-C_AXgJTLPG1nFzYxOTW7oorNt6cAeY4xu80",
+    "category": "Chatbot"
+  },
+  {
+    "year": 1997,
+    "title": "Deep Blue beats Kasparov",
+    "description": "In 1997, IBM’s Deep Blue made history by defeating world chess champion Garry Kasparov, signaling a major shift in public and scientific perception of AI capabilities. This landmark achievement demonstrated that machines could not only process vast amounts of data but also engage in complex strategic reasoning—once thought to be uniquely human. Deep Blue’s victory underscored the potential of AI in domains requiring foresight, planning, and decision-making, marking a critical milestone in the evolution of artificial intelligence and inspiring further exploration into cognitive computing and machine learning.",
+    "imageURL": "https://thisdayintechhistory.com/wp-content/uploads/2023/05/Kasparov_vs_Deep_Blue-21.jpg",
+    "category": "Game AI"
+  },
+  {
+    "year": 2011,
+    "title": "IBM Watson wins Jeopardy!",
+    "description": "In 2011, IBM's Watson, an AI system, defeated Jeopardy! legends Ken Jennings and Brad Rutter, showcasing advanced natural language processing and machine learning. By analyzing questions rapidly and retrieving accurate answers, Watson demonstrated AI's potential in understanding human language and reasoning, marking a milestone in artificial intelligence. ",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/IBM_Watson.PNG/1200px-IBM_Watson.PNG",
+    "category": "Quiz AI"
+  },
+  {
+    "year": 2016,
+    "title": "AlphaGo beats Lee Sedol",
+    "description": "In 2016, Google DeepMind's AlphaGo made history by defeating Lee Sedol, one of the greatest Go players, in a five-game match. Using deep neural networks and reinforcement learning, AlphaGo mastered the ancient, complex game, surpassing human intuition. This breakthrough demonstrated AI's ability to solve intricate problems, advancing the field significantly.",
+    "imageURL": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature.2016.19544/MediaObjects/41586_2016_Article_BFnature201619544_Figb_HTML.png",
+    "category": "Game AI"
+  },
+  {
+    "year": 2023,
+    "title": "ChatGPT Era",
+    "description": "In 2023, tools like ChatGPT and DALL·E revolutionized the creative landscape by harnessing the power of Large Language Models and generative AI. These technologies enabled machines to produce human-like text, generate original images from prompts, and assist with coding tasks—blurring the line between human and machine creativity. Their emergence marked a turning point in the AI revolution, shifting focus from analytical computation to expressive collaboration, and opening new possibilities in education, design, entertainment, and productivity.",
+    "imageURL": "https://img.freepik.com/premium-vector/interface-buttons-generative-ai-tool-vector-illustration_681307-168.jpg",
+    "category": "LLM"
+  },
+  {
+    "year": 2025,
+    "title": "AI as collaborative, personalized companions",
+    "description": "AI is rapidly evolving into collaborative, personalized companions that transform how we work and learn. By adapting to individual needs and contexts, AI technologies offer tailored support in understanding complex information, sparking creative ideas, and streamlining coding tasks. This shift redefines human engagement with knowledge and problem-solving—making learning more interactive, work more efficient, and creativity more accessible. As AI becomes a trusted partner rather than just a tool, it reshapes the future of human potential.",
+    "imageURL": "https://images.tmcnet.com/tmc/misc/articles/image/2023-oct/1942283937-AdobeStock_618444229_human_AI_companion_chatbot_assistant_collab_supersize_1200x630.jpeg",
+    "category": "Policy"
+  }
+]
